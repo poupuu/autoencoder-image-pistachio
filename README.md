@@ -1,13 +1,17 @@
-# Project Title 
+# Image Denoising with Autoencoders 
 
 ## Summary
 
-## Business Problem
+## Problem
+1. 
 
 ## Methodology
+1. 
 
 ## Skills
+1. 
 
-## Results & Business Recommendation
+## Results
+1. 
 
 ## Next Steps
