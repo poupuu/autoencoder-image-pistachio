@@ -15,9 +15,9 @@ Project denoising to trains model to reconstruct the original clean image and ad
 5. Evaluate
 
 ## Skills
-1. Python: Numpy, Matplotlib, OpenCV, os, ZipFile
+1. Python: Scikit-learn, Numpy, Matplotlib, OpenCV, os, and ZipFile
 2. Deep Learning Frameworks: Tensorflow and Keras
-3. 
+3. Evaluation: SSIM
 
 ## Results
 1. Final modified autoencoder achieved high SSIM score of 0.9574 on the test set
