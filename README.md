@@ -22,6 +22,8 @@ Project denoising to trains model to reconstruct the original clean image and ad
 3. Evaluation: SSIM
 
 ## Results
+![Denoised Model Result](assets/Denoised-Image-Results.png)
+
 1. Final modified autoencoder achieved high SSIM score of 0.9574 on the test set
 2. Visualization shows the image successfullly taking a noisy, corrupted image and producing a denoised version  
 3. Modification at activation function and learning rate giving impact to model
