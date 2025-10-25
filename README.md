@@ -1,5 +1,7 @@
 # Image Denoising with Autoencoders 
 
+![Pistachio Image](assets/Pistachio-Image.png)
+
 ## Summary
 Project denoising to trains model to reconstruct the original clean image and adding artifical noise then taught the model to fix it, then the model given input and showed it the original clean image as the answer. Its often use for real world implementation such as car plate capture camera (moving).
 
